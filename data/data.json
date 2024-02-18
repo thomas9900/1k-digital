@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pakett 1",
+    "icon": "fa-cubes",
+    "description": "Integer faucibus blandit eros, id iaculis erat",
+    "price": 99
+  },
+  {
+    "name": "Pakett 2",
+    "icon": "fa-store",
+    "description": "Orci varius natoque penatibus et magnis dis parturient montes",
+    "price": 129
+  },
+  {
+    "name": "Pakett 3",
+    "icon": "fa-earth-africa",
+    "description": "Vivamus vestibulum lacus sit amet mi pulvinar ornare",
+    "price": 199
+  }
+]
